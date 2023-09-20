@@ -1,2 +1,2 @@
 # Credit-risk-management
-analyzing load data and preprocess it with NumPy only 
+analyzing loan data and preprocessing it with NumPy only 
